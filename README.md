@@ -1,3 +1,4 @@
+<img align="center" alt="Saksham Coder" src="https://media.licdn.com/dms/image/D5616AQGq8JeMWZRH0w/profile-displaybackgroundimage-shrink_350_1400/0/1684848265845?e=1718841600&v=beta&t=KjrlnODW_t3H12viDq1fqhw-kP4G9QIbp7BrbYqJ2_w">
 # 💫 About Me:
 🔭 I’m currently working on [an AI related Task App](https://github.com/sakshamcodes01/Task-App)<br><br>🌱 I’m currently learning **Rust, Langchain**<br><br>👯 I’m looking to collaborate on **full-stack projects**<br><br>👨‍💻 All of my projects are available at [https://github.com/sakshamcodes01](https://github.com/sakshamcodes01)<br><br>💬 Ask me about **Python, app integrations, AWS**<br><br>📫 How to reach me **sakshamcodes01@gmail.com**
 
