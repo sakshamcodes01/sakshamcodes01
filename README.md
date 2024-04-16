@@ -4,7 +4,7 @@
 🔭 I’m currently working on [an AI related Task App](https://github.com/sakshamcodes01/Task-App)<br><br>🌱 I’m currently learning **Rust, Langchain**<br><br>👯 I’m looking to collaborate on **full-stack projects**<br><br>👨‍💻 All of my projects are available at [https://github.com/sakshamcodes01](https://github.com/sakshamcodes01)<br><br>💬 Ask me about **Python, app integrations, AWS**<br><br>📫 How to reach me **sakshamcodes01@gmail.com**
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-arya-0096) 
 
 # 💻 Tech Stack:
